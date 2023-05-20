@@ -106,7 +106,7 @@ Here are some ideas to get you started:
 
 ### 👀 Visitor Info
 
-![Hitcount](https://komarev.com/ghpvc/?username=getlost01&color=57bcd9)
+![Hitcount](https://komarev.com/ghpvc/?username=jayed87&color=57bcd9)
 
 
 
